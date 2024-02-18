@@ -12,8 +12,10 @@
 
 ### Object-oriented programming
 
-* Class diagram
-* Working with MySQL
-* OOP and Java
+* [Class diagram](https://github.com/AzarnykhOleg/Final-control-work/blob/ClassDiagram/Class%20Diagram/Class_Diagram.jpg)
+* [Working with MySQL](https://github.com/AzarnykhOleg/Final-control-work/blob/WorkingwithMySQL/Working_with_MySQL/Script.sql)
+
+ ### [OOP and Java](https://github.com/AzarnykhOleg/Final-control-work/tree/OOPandJava)
+ 
 * Pet Registry Program
 * Animal counter
